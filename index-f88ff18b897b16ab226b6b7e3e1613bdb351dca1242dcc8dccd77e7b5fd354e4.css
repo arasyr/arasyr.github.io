@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #06090d;
+    color: #ffffff;
+    font-family: "Press Start 2P", sans-serif;
+    border: 1px solid #000;
+}
+
+.silex-default-text {
+    padding: 10px;
+}
+
+#Welcome {
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 350%;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 1;
+
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+}
+
+#Download,
+#Support,
+#Help {
+    background: #00040a;
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 90%;
+    height: 45px;
+    margin: 0;
+    position: absolute;
+    top: 1%;
+    text-align: center;
+}
+
+#Download {
+    left: 0;
+    width: 33%;
+}
+
+#Support {
+    right: 33%;
+    width: 34%;
+}
+
+#Help {
+    right: 0;
+    width: 33%;
+}
+
+#Explanation {
+    bottom: 13%;
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}

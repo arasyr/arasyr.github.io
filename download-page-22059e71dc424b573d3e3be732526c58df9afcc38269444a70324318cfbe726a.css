@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #06090d;
+    border: 1px solid #000000;
+    color: #ffffff;
+    font-family: "Press Start 2P", sans-serif;
+}
+
+.silex-default-container {
+    min-height: 100px;
+}
+
+.silex-default-text {
+    padding: 10px;
+}
+
+#ieule-5-3 {
+    background-color: #00040a;
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 17px;
+    height: 45px;
+    margin: 0;
+    position: relative;
+    width: 160px;
+}
+
+#ia4f5-3 {
+    background-color: #00040a;
+    border: 1px solid #000308;
+    width: 100%;
+    min-height: 100px;
+
+    display: flex;
+    align-items: center;
+}
+
+#WOMPING {
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    position: absolute;
+    right: 40%;
+    top: 50%;
+}
+
+
+#im9mf {
+    aspect-ratio: 225 / 225;
+}
+
+#ivnhq {
+    position: absolute;
+    right: 370px;
+    top: 300px;
+}
+
+#LaughingATU {
+    right: 0;
+    top: 0;
+}
+#Back {
+    background-color: #00040a;
+    color: #00a80a;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 17px;
+    height: 45px;
+    width: 160px;
+
+    position: relative;
+    z-index: 99999;
+}
